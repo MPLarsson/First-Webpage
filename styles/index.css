@@ -8,3 +8,14 @@
     background-color: lightblue;
     font-weight: bold;
 }
+
+.button{
+    background-color: rgb(202, 119, 9);
+    padding: 15px 32px;
+    border-radius: 50%;
+    text-align: center;
+    border-style:dashed;
+    cursor: pointer;
+    margin: 15px;
+    color: white;
+}
